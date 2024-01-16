@@ -1,0 +1,211 @@
+
+====
+2-hafta. Saidov Oxunjon:
+
+***
+
+=====
+Dushanba (08.01.2024)
+
+****
+
+Keldi: 11:00
+
+Berilgan ish nomi: Abedgacha ish berilmadi. Abeddan keyin SMAPda ishlar tushintirildi.
+
+Smapda Foydalanuvchi grouppa zakupkasi bo’yicha 11 ta oynalarda zaproslarini to’girlash
+
+Ajratilgan vaqt: 2d
+
+Topshirilgan vaqt: topshirilmadi.
+
+Ketdi: 18:00
+
+=====
+=====
+Seshanba (09.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi: Foydalanuvchi grouppa zakupkasi bo’yicha 11ta oynalarda zaproslarini to’girlash
+
+https://duolcom.atlassian.net/browse/OS-22
+
+Smapda polzavitel uchun tanlangan Gruppa zakupka bo’yicha oynalar zaproslariga qoshish
+
+Ajratilgan vaqt: 2d
+
+
+=====
+=====
+Chorshanba (10.01.2024)
+
+****
+
+Keldi: 7:00
+
+Berilgan ish nomi:
+
+https://duolcom.atlassian.net/browse/OS-22
+
+Smapda polzavitel uchun tanlangan Gruppa zakupka bo’yicha oynalar zaproslariga qoshish
+
+Ajratilgan vaqt: 2d
+
+Topshirilgan vaqt: Topshirildi
+
+Ketdi: 18:20
+
+=====
+=====
+Payshanba (11.01.2024)
+
+****
+
+Keldi: 10:00
+
+Berilgan ish nomi:
+
+Terminal desktopda Report min balance
+
+
+=====
+=====
+Juma (12.01.2024)
+
+****
+
+Keldi: 12:00
+
+Berilgan ish nomi:
+
+Terminal desktopda Report min balance
+
+Report min balance
+
+
+=====
+=====
+Shanba (13.01.2024)
+
+****
+
+Berilgan ish nomi:
+
+productViewV2 oynasida barcode chiqarish
+
+prixod senani chiqarish productViewV2 oynasida
+
+Topshirilgan vaqt: Tugatildi.
+
+
+=====
+
+====
+====
+3-hafta Saidov Oxunjon
+
+***
+
+=====
+Dushanba (15.01.2024)
+
+****
+
+Keldi: 10:30
+
+Berilgan ish nomi:
+
+bugunga terminal-individial API uchun,  logout url yozish
+
+payment-total API
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Seshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Chorshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Payshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Juma ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Shanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====

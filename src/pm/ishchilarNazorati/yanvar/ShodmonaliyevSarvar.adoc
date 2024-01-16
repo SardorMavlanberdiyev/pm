@@ -1,0 +1,214 @@
+
+====
+2-hafta. Shodmonaliyev Sarvar:
+
+***
+
+=====
+Dushanba (08.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi: Logotiplarni dynamic qilish. Urllarni o`zgartirish.
+
+Ajratilgan vaqt: Oldindan belgilanmadi
+
+Topshirilgan vaqt: Tugatildi
+
+Ketdi: 18:20
+
+=====
+=====
+Seshanba (09.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+Winpro.uz da Intsrumentlarga label yozish. Product tableni o`zgartirish.
+
+Reportdagi back qismida tugatilgan code review ni UI ga tegishli joylarini to'g'rilash
+
+Ajratilgan vaqt: Belgilanmadi
+
+Topshirilgan vaqt:
+
+Ketdi: 18:20
+
+=====
+=====
+Chorshanba (10.01.2024)
+
+****
+
+Keldi:9:00
+
+Berilgan ish nomi:
+
+1) default language=uz
+
+2) profile va language icon larni ornini almashtirish
+
+3) favicon ham qoyish kerak
+
+4) favicon - page name
+
+5) backend dan kelishi kk
+
+-logo
+
+-favicon
+
+-favicon - page name
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi: 18:20
+
+=====
+=====
+Payshanba (11.01.2024)
+
+****
+
+Keldi: 10:00
+
+Berilgan ish nomi:
+
+Terminal WEBda account pagelarini code review qildi.
+
+Winpro.uz da Card
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Juma (12.01.2024)
+
+****
+
+Keldi: 9:30
+
+Berilgan ish nomi:
+
+Get zaprosda backni code reviewsidan keyin hamma pagega tegishli get zaprosda o'zgarishlar.
+
+Winpro.uz bo`yicha meeting.
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+====
+====
+3-hafta Shodmonaliyev Sarvar
+
+***
+
+=====
+Dushanba (15.01.2024)
+
+****
+
+Keldi:12:00
+
+Berilgan ish nomi:
+
+Winpro.uz Zakaz bo`limi.
+
+Ketdi:
+
+=====
+=====
+Seshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Chorshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Payshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Juma ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Shanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====

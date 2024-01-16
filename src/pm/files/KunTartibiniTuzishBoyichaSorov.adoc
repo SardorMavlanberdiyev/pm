@@ -1,0 +1,16 @@
+= Belgilar
+
+*ST* - *Start Time* (_Ishga kirib kelish vaqti_)
+
+*T* - *Tanaffus*  (_You Tube, Instagram, Telegram, O`yin o`ynash, Balkonga chiqish, ko`chaga chiqish va boshqalarni yozsa bo`ladi._)
+
+*I* - *Ish vaqti* (_Misol uchun: 11:06 - 12:30 gacha o`tirib ishladim. 1 soat 24 minut_)
+
+*C* - *Cofe break* (_Cofe breakga ketgan vaqt_)
+
+*M* - *Meeting* (_Meeting uchun ketgan vaqt_)
+
+*LT* - *Lunch Time* (_Tushlik vaqti_)
+
+*ET* - *End Time* (_Ishdan ketish vaqti_)
+

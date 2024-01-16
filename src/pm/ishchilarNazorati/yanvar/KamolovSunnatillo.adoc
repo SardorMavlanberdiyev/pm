@@ -1,0 +1,241 @@
+====
+1-hafta Sunnatillo
+
+***
+=====
+Chorshanba ()
+
+****
+
+Kelmadi
+
+=====
+=====
+Payshanba ()
+
+****
+
+Kelmadi
+
+=====
+=====
+Juma ()
+
+****
+
+Keldi: 10:00
+
+Berilgan ish nomi: Meeting Report bo`yicha. Code optimization
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+====
+====
+2-hafta. Kamolov Sunnatillo:
+
+***
+
+=====
+Dushanba (08.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+Api lar URL tõğirlandi
+
+Query lar readable clean code bõldi
+
+Sorting optimizatsiya bõldi
+
+Ajratilgan vaqt: Oldindan belgilanmadi.
+
+Topshirilgan vaqt:
+
+Ketdi: 18:20
+
+=====
+=====
+Seshanba (09.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+Reportdagi hamma Querylarni clean code qilish.
+
+Ajratilgan vaqt: Oldindan belgilanmadi.
+
+Topshirilgan vaqt: Tugatildi
+
+Ketdi: 18:20
+
+=====
+=====
+Chorshanba (10.01.2024)
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Filterlar bo`yicha ceal code
+
+Ajratilgan vaqt: Oldindan belgilanmadi
+
+Topshirilgan vaqt:
+
+Ketdi: 18:20
+
+=====
+=====
+Payshanba (11.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+Excel va Sorting qismlarining filteri uchun clean code
+
+Ajratilgan vaqt: Oldindan belgilanmadi
+
+Topshirilgan vaqt:
+
+Ketdi: 18:20
+
+=====
+=====
+Juma (12.01.2024)
+
+****
+
+Keldi: 9:30
+
+Berilgan ish nomi:
+
+Excel query lardagi bazi kamchiliklar to'g'irlandi,
+
+Filterlar Builder patternda ayrim funksiya qilib yozib chiqildi
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+
+====
+====
+3-hafta Kamolov Sunnatillo
+
+***
+
+=====
+Dushanba (15.01.2024)
+
+****
+
+Keldi: 9:30
+
+Berilgan ish nomi:
+
+table va excel sorting
+
+Topshirilgan vaqt:18:30
+
+Ketdi:
+
+=====
+=====
+Seshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Chorshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Payshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Juma ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Shanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====

@@ -1,0 +1,270 @@
+====
+
+1 - hafta. Umarxonov Faxriyor:
+
+***
+
+=====
+Chorshanba (3 - yanvar):
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi: Terminal WEB da Login Pageni yasash.
+
+Ajratilgan vaqt: 1.5 kun
+
+Topshirilgan vaqt: Topshirilmadi. 1 kun sarflandi.
+
+Ketdi: 18:30 dan keyin ketdi.
+=====
+
+=====
+Payshanba (4 - yanvar):
+
+****
+
+
+Keldi: 9:00
+
+Berilgan ish nomi: Terminal WEB da Login Pageni yasash. Side barning dizaynini to`g`rilash.
+
+Ajratilgan vaqt: 1.5 kun
+
+Topshirilgan vaqt: Abedgacha topshirildi Login page, Dizayn tugamadi.
+
+Ketdi: 18:20 dan keyin ketdi. Dizaynni tugatib
+
+=====
+
+=====
+Juma (5 - yanvar):
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi: Til o`zgartirishni Navbarga joylashtirish. Filtrlarni joyini to`g`rilash.
+
+Ajratilgan vaqt: 1 kun
+
+Topshirilgan vaqt: Tugamadi
+
+Ketdi: 18:20 dan keyin ketdi.
+=====
+====
+====
+2-hafta. Umarxonov Faxriyor:
+
+***
+
+=====
+Dushanba (08.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+Til o`zgartirishni Navbarga joylashtirish.
+
+Filtrlarni joyini to`g`rilash.
+
+Abeddan keyinga Список Расходи.
+
+Ajratilgan vaqt: Juma kungi ish uchun ajratilgan vaqt tugagan.
+
+Topshirilgan vaqt: Topshirildi
+
+Ketdi: 18:20
+
+=====
+=====
+Seshanba (09.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+Список расход
+
+Список приход
+
+Список возврата(Клиент)
+
+Список возврата(База)
+
+Topshirilgan vaqt: Tugatildi
+
+Ketdi: 18:20
+
+=====
+=====
+Chorshanba (10.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+Terminal WEB da Tablelarni responsive qilish
+
+Ajratilgan vaqt: Oldindan belgilanmadi
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Payshanba (11.01.2024)
+
+****
+
+Keldi:9:00
+
+Berilgan ish nomi:
+
+Список получения
+
+Список платежей
+
+Список переводов
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Juma (12.01.2024)
+
+****
+
+Keldi: 9:40
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Список получения
+
+Список платежей
+
+Список переводов
+
+Ketdi: 19:00
+
+=====
+====
+====
+3-hafta Umarxonov Faxriyor
+
+***
+
+=====
+Dushanba (15.01.2024)
+
+****
+
+Keldi: 9:30
+
+Berilgan ish nomi:
+
+Список перевод между склад UI
+
+Список корректировка остатка UI
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Seshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Chorshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Payshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Juma ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Shanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====

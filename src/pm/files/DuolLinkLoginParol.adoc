@@ -1,0 +1,13 @@
+== Akfa Dealer Report old
+http://report.akfadiler.uz[]
+
+ login: report_dealer@gmail.com
+ parol: Akfa2022@
+
+
+== Duol Admin
+http://admin.duol.uz[]
+
+ Parol: Dev@7046
+
+

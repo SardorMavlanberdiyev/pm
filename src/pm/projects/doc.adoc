@@ -1,3 +1,11 @@
-= Head
 
-== head
+= 26.09.2023
+
+== Jirada projectlar yaratish
+
+ SPhone bajarildi
+ Online savdo bajarildi
+
+sizni o`zimda ko`tarish,
+bajaraladigan ishlarni yozish. (oynalarni)
+

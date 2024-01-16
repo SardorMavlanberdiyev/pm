@@ -1,0 +1,393 @@
+====
+1-hafta Salohiddinov Sirojiddin
+
+=====
+Chorshanba (3-yanvar)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi: Yo`q. Berilmadi.
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:18:30 dan keyin
+
+=====
+=====
+Payshanba (4-yanvar)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi: Windoorda measurement oynasidan pdf chiqarish. Reportda 5 ta bug fix
+
+Ajratilgan vaqt: 1 kun
+
+Topshirilgan vaqt: PDF tilida muommo bolib bitmayabdi
+
+Ketdi: 18:20 dan keyin ketdi. Reportda 5 ta bug fixni qilib.
+
+=====
+=====
+Juma (5-yanvar)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi: Windoorda PDFni to`g`rilash.
+
+Ajratilgan vaqt: Ajratilgan vaqt tugagan, Meeting Report bo`yicha. Code optimization
+
+Topshirilgan vaqt: PDF topshirilmadi. Reportda code reviewlar tugaganidan keyinga qoldi
+
+Ketdi:18:20 dan keyin ketdi.
+
+
+=====
+
+====
+====
+2-hafta. Salohiddinov Sirojiddin:
+
+***
+
+=====
+Dushanba (08.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+1)Report images
+
+1.PURCHASES
+
+1) TABLE /sales-by-product -> /purchases.
+
+2) EXCEL /sales-by-product-excel -> /purchases-excel.
+
+3) CSV sales-by-product-csv -> /purchases-csv.
+
+2.PAYMENTS
+
+1) TABLE /payment/receipt -> /payments.
+
+2) EXCEL /payment-receipt-xlsx -> /payments-xlsx.
+
+3) CSV /payment-receipt-csv -> /payments-csv.
+
+3.DEBT-CLIENTS
+
+1) TABLE /debt-report-list -> /debt-clients-list.
+
+2) EXCEL /debt-report-excel -> /debt-clients-list.
+
+3) CSV /debt-report-csv -> /debt-clients-csv.
+
+Ajratilgan vaqt: Oldindan belgilanmadi.
+
+Topshirilgan vaqt: 18:00 Topshirildi.
+
+Ketdi: 18:10
+
+=====
+=====
+Seshanba (09.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+4.CLIENT-BALANCE
+
+1) TABLE /client-balance -> do not changed.
+
+2) EXCEL /client-balance/xlsx -> /client-balance-xlsx.
+
+3) CSV /client-balance/csv -> /client-balance-csv.
+
+5.PRODUCT-BALANCE
+
+1) TABLE /product-balance -> /remaining-products.
+
+2) EXCEL /product-balance/xlsx -> /remaining-products-xlsx.
+
+3) CSV /product-balance/csv -> /remaining-products-csv.
+
+6.PRODUCT-MOVEMENT
+
+1) TABLE /invoice-item -> /products-movement.
+
+1) EXCEL /invoice-item-xlsx -> /products-movement-xlsx.
+
+1) CSV /invoice-item-csv -> /products-movement-csv.
+
+Ajratilgan vaqt: Oldindan belgilanmadi.
+
+Topshirilgan vaqt: Tugatildi
+
+Ketdi: 18:20
+
+=====
+=====
+Chorshanba (10.01.2024)
+
+****
+
+Keldi: 9:00
+
+Berilgan ish nomi:
+
+2.1.CLIENT-BALANCE
+
+1) TABLE -> filter is optimized.
+
+2) EXCEL -> filter is optimized.
+
+3) CSV -> filter is optimized.
+
+2.2.REMAINING-PRODUCTS
+
+1) TABLE -> filter is optimized.
+
+2) EXCEL -> filter is optimized.
+
+3) CSV -> filter is optimized.
+
+2.3.PRODUCTS-MOVEMENT
+
+1) TABLE -> filter is optimized.
+
+2) EXCEL -> filter is optimized.
+
+3) CSV -> filter is optimized.
+
+2.4.PURCHASES
+
+1) TABLE -> filter is optimized.
+
+2) EXCEL -> filter is optimized.
+
+3) CSV -> filter is optimized.
+
+2.3.INVOICES
+
+1) TABLE -> filter is optimized.
+
+2) EXCEL -> filter is optimized.
+
+3) CSV -> filter is optimized.
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Payshanba (11.01.2024)
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+2.5.PAYMENTS
+
+1) TABLE -> filter is optimized.
+
+2) EXCEL -> filter is optimized.
+
+3) CSV -> filter is optimized.
+
+2.6.SALES BY SECTOR
+
+1) TABLE -> filter is optimized.
+
+2) EXCEL -> filter is optimized.
+
+3) CSV -> filter is optimized.
+
+2.7.DEBT-REPORT
+
+1) TABLE -> filter is progress optimized.
+
+2) EXCEL -> filter is progress optimized.
+
+3) CSV -> filter is progress optimized.
+
+2.8.DEALERS
+
+1) TABLE -> filter is progress optimized.
+
+2) EXCEL -> filter is progress optimized.
+
+3) CSV -> filter is progress optimized.
+
+11.01.2024 LEVEL - 2 IS COMPLATE.
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Juma (12.01.2024)
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+1) CLEAR SEC UTILS AND dealerIds FIELD.
+
+2) CORREACTION IN ALL SERVICES.
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Shanba (13.01.2024)
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+1) CODEREVIEW IN DEALER REPOSITORY AND REPORTS REPOSITORY.
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+
+====
+
+====
+3-hafta Salohiddinov Sirojiddin
+
+***
+
+=====
+Dushanba (15.01.2024)
+
+****
+
+Keldi:9:30
+
+Berilgan ish nomi:
+
+4.1.DEALER
+
+1) TABLE -> sort is optimized.
+
+2) EXCEL -> sort is optimized.
+
+3) CSV -> sort is optimized.
+
+Ketdi:
+
+=====
+=====
+Seshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Chorshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Payshanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Juma ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====
+=====
+Shanba ()
+
+****
+
+Keldi:
+
+Berilgan ish nomi:
+
+Ajratilgan vaqt:
+
+Topshirilgan vaqt:
+
+Ketdi:
+
+=====

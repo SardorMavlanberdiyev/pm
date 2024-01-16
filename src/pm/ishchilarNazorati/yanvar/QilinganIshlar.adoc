@@ -1,0 +1,45 @@
+====
+1- hafta
+
+=====
+
+Chorshanba(3-yanvar)
+
+****
+
+1) Winpro.uz dasturiga Ma`lumotlarni kiritish boshlandi.
+
+2) 3 ta client support, Linux o`rganildi.
+
+****
+
+=====
+=====
+Payshanba(4-yanvar)
+
+****
+
+1)  Reportda 5 ta bug fix to`g`rilandi.
+
+2) Terminal WEBda Login Page yasaldi.
+
+3) Terminal WEBda Side barning dizayni.
+
+4) 6 ta client support qilindi. 2/8.214 tozalandi. Terminal
+
+****
+=====
+=====
+Juma(5-yanvar)
+
+****
+1) Report bo`yicha meeting bo`ldi. Optimizatsiya ustida ishlash boshlandi.
+
+2) 5 ta mijoz support qilindi.
+****
+=====
+=====
+Shanba(6-yanvar)
+
+****
+2ta mijoz qo`llab quvvatlandi.
